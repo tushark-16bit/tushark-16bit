@@ -6,7 +6,7 @@ I am a curious software engineer who loves to code in an idiomatic code style. I
 - 🌱 I’m working to implement the same microservice with tech stack of kotlin and spring boot using kotlin coroutines for a higher performance.
 - 🌱 I’m looking to learn more about architecture and software design patterns that may inetarct with functional programming as well as OOP.
 - I am looking to learn more about serverless programming and am open to talk/ interact about the subject
-- 📫 How to reach me: email me at kal.tushar.16@gmail.com
+- 📫 How to reach me: email me at kal.tushar16@gmail.com
 
 Also, i love to read, and a few of Books i would recommend to any fellow programmer would be:
 - Deep Work by Cal Newport (I have observed i work better in focused sessions, and this may introduce you to the idea)
